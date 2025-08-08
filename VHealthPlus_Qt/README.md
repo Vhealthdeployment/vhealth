@@ -1,3 +1,9 @@
+<h1 align="center">Abhishek Chauhan</h1>
+<p align="center"><strong>Non-Tech Lead</strong></p>
+
+---
+
+# Car Dashboard using Qt QML
 
 ![Uploading Car Dashboard.gif…](https://github.com/cppqtdev/Car-Dashboard-2/blob/main/screenshots/Car%20Dashboard.gif)
 
