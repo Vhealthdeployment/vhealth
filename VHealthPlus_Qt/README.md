@@ -1,8 +1,4 @@
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/aksh-singh-0808bb220/"><img src="https://avatars.githubusercontent.com/u/108173159?s=400&u=7aa6f3cded4e1eceabae2f86c27aeeb3931538b4&v=4" /></a>
-
-
 ![Uploading Car Dashboard.gif…](https://github.com/cppqtdev/Car-Dashboard-2/blob/main/screenshots/Car%20Dashboard.gif)
 
 
