@@ -4,7 +4,7 @@
 </p>
 
 <h3 align='center'>
-  👩‍💻 Aksh Singh 👩‍💻
+  👩‍💻 Abhishek Chauhan 👩‍💻
 </h3>
 
 <h4 align='center'>
